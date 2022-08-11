@@ -7,3 +7,7 @@ This is a sample survey form of a company.
 -Based for department B
 
 -Based for department C
+
+##Built with
+1. HTML
+* css
