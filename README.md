@@ -12,5 +12,5 @@ This is a sample survey form of a company.
 1. HTML
 2. css
 
-* Preview
+## Preview
 View http://127.0.0.1:5500/
