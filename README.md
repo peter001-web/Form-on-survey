@@ -2,12 +2,12 @@
 
 This is a sample survey form of a company.
 
--Based for department A
+* Based for department A
 
--Based for department B
+* Based for department B
 
--Based for department C
+* Based for department C
 
-##Built with
+## Built with
 1. HTML
-* css
+2. css
