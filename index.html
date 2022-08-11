@@ -1,12 +1,98 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>assignment-1</title>
+    <link rel="stylesheet" href="./style.css">
 </head>
+
 <body>
-    
+    <header id="title">
+        <h1>Survey Form</h1>
+    </header>
+    <section>
+        <div class="container">
+            <div id="describe">
+                <p>Let us know how we can improve freecodecamp</p>
+            </div>
+            <form id="survey-form">
+                <div class="row-tab">
+                    <div class="label-tab">
+                        <label for="name">*Name:</label>
+                    </div>
+                    <div class="input-tab">
+                        <input type="text" name="name" id="name"  placeholder="Enter your name">
+                    </div>
+                </div>
+                <div class="row-tab">
+                    <div class="label-tab">
+                        <label for="email">*Email:</label>
+                    </div>
+                    <div class="input-tab">
+                        <input type="email" name="email"   placeholder="Enter your email">
+                    </div>
+                </div>
+                <div class="row-tab">
+                    <div class="label-tab">
+                        <label for="age">*Age:</label>
+                    </div>
+                    <div class="input-tab">
+                        <input type="number" name="age" value="age" placeholder="Age">
+                    </div>
+                </div>
+                <div class="row-tab" >
+                    <div class="label-tab">
+                        <label for="describe">Which option best describes your current role?</label>
+                    </div>
+                    <div class="select-tab">
+                        <select class="select" name="" id="">
+                            <option value="">Student</option>
+                            <option value="">workers</option>
+                            <option value="">salaryman</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="row-tab">
+                    <div class="label-tab">
+                        <label for="">How likely is that you would recommend freecode camp to a friend?</label>
+                    </div>
+                    <div class="input-tab">
+                       <div> <input type="radio" name="recomend" id="recomend" value="Definetely"><label for="">Definetely</label></div>
+                        <div><input type="radio" name="recomend" id="recomend" value="Maybe"><label for="">Maybe</label></div>
+                        <div><input type="radio" name="recomend" id="recomend" value="Not sure"><label for="">Not sure</label></div>
+                    </div>
+                </div>
+                <div class="row-tab">
+                    <div class="label-tab">
+                        <label for="">
+                            What do you like most in FCC
+                        </label>
+                    </div>
+                    <div class="select-tab">
+                        <select name="" id="">
+                            <option value="">Select an option</option>
+                            <option value="">A</option>
+                            <option value="">B</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="row-tab">
+                    <div class="label-tab">
+                        <label for="">Things that should be improved in the future (check all that apply)</label>
+                    </div>
+                    <div class="input-tab">
+                        <input type="checkbox" name="projects" value="Front-end Projects"><label for="">Front-end Projects</label>
+                        <input type="checkbox" name="projects" value="Back-end Projects"><label for="">Back-end Projects</label>
+                        <input type="checkbox" name="projects" value="Data Visualization projects"><label for="">Data Visualization</label>
+                    </div>
+            </div>
+            </form>
+            
+    </section>
+
 </body>
+
 </html>
