@@ -31,5 +31,5 @@ View http://127.0.0.1:5500/
  ## Author
  Tomiwa Bakare
 
- * Git Hub:@peter001
+ * Git Hub:@peter001-web
 
