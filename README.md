@@ -8,6 +8,9 @@ This is a sample survey form of a company.
 
 * Based for department C
 
+## Preview
+View http://127.0.0.1:5500/
+
 ## Built with
 1. HTML
 2. css
@@ -23,6 +26,10 @@ This is a sample survey form of a company.
  * A Text Editor
 
  ### Install
+ * GIT
 
-## Preview
-View http://127.0.0.1:5500/
+ ## Author
+ Tomiwa Bakare
+
+ * Git Hub:@peter001
+
