@@ -17,18 +17,22 @@ View http://127.0.0.1:5500/
 
 * Technologies used
 
- -GIT(Version control)
+ - GIT(Version control)
 
  ## Getting Started
  To get a local copy follow these steps
+ `git clome`
+
+ ```
+ - git clone
+ ```
 
  ### prequisities
- * A Text Editor
+ - A Text Editor
 
  ### Install
- * GIT
+ - GIT
 
  ## Author
- Tomiwa Bakare
-
- * Git Hub: @ peter001-web.html
+ **Tomiwa Bakare**
+ * GitHub: [@peter001-web](https://github.com/peter001-web)
