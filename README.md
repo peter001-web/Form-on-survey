@@ -8,6 +8,8 @@ This is a sample survey form of a company.
 
 * Based for department C
 
+![demo](./survey.png)
+
 ## Preview
 View http://127.0.0.1:5500/
 
