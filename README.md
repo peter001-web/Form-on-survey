@@ -38,3 +38,7 @@ View http://127.0.0.1:5500/
  ## Author
  **Tomiwa Bakare**
  * GitHub: [@peter001-web](https://github.com/peter001-web)
+
+ ## 📝 License
+
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
