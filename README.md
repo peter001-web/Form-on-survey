@@ -27,6 +27,9 @@ View http://127.0.0.1:5500/
 
  ```
  - git clone
+  https://github.com/peter001-web/Form-on-survey
+  cd form-on survey
+
  ```
 
  ### prequisities
